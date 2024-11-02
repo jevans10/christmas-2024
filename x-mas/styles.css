@@ -30,6 +30,10 @@ th {
     text-align: left;
 }
 
+table th:nth-child(3) {
+    padding-right: 20px; /* Adjust the value as needed */
+}
+
 input {
     font-size: .35em;
 }

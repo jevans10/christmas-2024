@@ -30,10 +30,14 @@ th {
     text-align: left;
 }
 
-table th:nth-child(2), table th:nth-child(3) {
-    padding-left: 2em;
+table th:nth-child(3) {
+    padding: .5em;
 }
 
+table th:nth-child(2) {
+    padding: .5em;
+    tex-align: center;
+}
 tr:nth-child(even) {
   background-color: rgba(0, 36, 0, 0.35);
 }

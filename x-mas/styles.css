@@ -10,6 +10,10 @@ h1, h3{
     padding: 1% 1% 0 1%;
 }
 
+a {
+    text-decoration: none;
+    color: #002400
+}
 select {
     color: #001b00;
     font-size: .75em !important;

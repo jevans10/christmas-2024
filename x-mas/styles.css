@@ -28,14 +28,10 @@ select {
 
 th {
     text-align: left;
-}
-
-table th:nth-child(3) {
     padding: .5em;
 }
 
 table th:nth-child(2) {
-    padding: .5em;
     tex-align: center;
 }
 tr:nth-child(even) {

@@ -34,6 +34,10 @@ table th:nth-child(2), table th:nth-child(3) {
     padding-left: 2em;
 }
 
+tr:nth-child(even) {
+  background-color: #002400;
+}
+
 input {
     font-size: .35em;
 }

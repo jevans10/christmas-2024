@@ -30,8 +30,11 @@ th {
     text-align: left;
 }
 
-table th:nth-child(2), table th:nth-child(3) {
-    padding-right: 2em; /* Adjust the value as needed */
+table th:nth-child(3) {
+    padding-right: 2em;
+}
+table th:nth-child(2) {
+    padding-left: 2em;
 }
 
 input {
